@@ -1,0 +1,8 @@
+.officers-group-photo {
+    width: 100%; /* Makes the image responsive, adjusting to the width of its container */
+    max-width: 600px; /* You can set a max-width to ensure it doesn't get too large */
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+  }
+  

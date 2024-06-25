@@ -1,0 +1,28 @@
+.officers-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .officer-card {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .officer-photo {
+    width: 100%;
+    height: auto;
+    border-radius: 50%; /* Optional: creates a circular photo effect */
+  }
+  
+  .officer-name {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+  }
+  
+  .officer-role {
+    font-size: 1em;
+    color: #666;
+  }
+  

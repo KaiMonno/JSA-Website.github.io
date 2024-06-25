@@ -1,0 +1,29 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    padding: 16px;
+  }
+  
+  .gallery-item {
+    cursor: pointer;
+    border: 1px solid #ccc; /* Optional border */
+    padding: 8px;
+    text-align: center; /* Center the title */
+    transition: transform 0.2s; /* Smooth transition for hover effect */
+  }
+  
+  .gallery-item:hover {
+    transform: scale(1.05); /* Slightly scale up items on hover */
+  }
+  
+  .gallery-image {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    border-bottom: 1px solid #ccc; /* Optional border between image and title */
+  }
+  
+  .gallery-title {
+    margin-top: 8px;
+  }
+  
