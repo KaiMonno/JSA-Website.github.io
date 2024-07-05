@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JSA-Website.github.io/static/css/main.e10eaabb.css",
+    "main.js": "/JSA-Website.github.io/static/js/main.d08af259.js",
+    "static/js/592.efb62960.chunk.js": "/JSA-Website.github.io/static/js/592.efb62960.chunk.js",
+    "index.html": "/JSA-Website.github.io/index.html",
+    "main.e10eaabb.css.map": "/JSA-Website.github.io/static/css/main.e10eaabb.css.map",
+    "main.d08af259.js.map": "/JSA-Website.github.io/static/js/main.d08af259.js.map",
+    "592.efb62960.chunk.js.map": "/JSA-Website.github.io/static/js/592.efb62960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e10eaabb.css",
+    "static/js/main.d08af259.js"
+  ]
+}
