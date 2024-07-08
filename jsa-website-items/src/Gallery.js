@@ -5,7 +5,6 @@ import GalleryItem from "./GalleryItem";
 function Gallery({ items }) {
     // This function will be called when an item is clicked
     const handleItemClick = (item) => {
-      // You can handle the click however you wish, such as navigating to a new route or opening a modal
       console.log("Clicked item:", item.title);
     };
   

@@ -22,7 +22,7 @@ function App() {
       padding: '1px',
       marginLeft: '10px'
     }}>
-      <img src="JSA Logo.png" alt="Japanese Student Association Logo" 
+      <img src="./JSA Logo.png" alt="Japanese Student Association Logo" 
       style={{ 
         maxWidth: '100px', 
         maxHeight: '50px', 

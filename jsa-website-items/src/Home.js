@@ -7,7 +7,7 @@ const Home = () => {
 
     return (
       <div className="Home" >
-      <img src="JSA Logo.png" alt="Japanese Student Association Logo" 
+      <img src="./JSA Logo.png" alt="Japanese Student Association Logo" 
       style={{ 
         maxWidth: '300px', 
         maxHeight: '500px', 

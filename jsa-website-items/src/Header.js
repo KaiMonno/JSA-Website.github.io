@@ -11,7 +11,7 @@ function Header() {
         padding: '10px'
       }}>
         <img 
-          src="JSA Logo.png" 
+          src="./JSA Logo.png" 
           alt="Japanese Student Association Logo" 
           style={{ 
             maxWidth: '100px', // Adjust the max width as needed
